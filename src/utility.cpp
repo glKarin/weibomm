@@ -21,6 +21,7 @@
 #else
 #define VIDEO_SUITE "/usr/bin/video-suite"
 #endif
+#include <cmath>
 #include "qjson/parser.h"
 
 #include "qmlapplicationviewer.h"

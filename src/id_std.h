@@ -6,7 +6,7 @@
 #define ID_APP "WeiBo++"
 #define ID_NAME "微博++"
 #define ID_PKG "weibomm"
-#define ID_PATCH "1"
+#define ID_PATCH "2"
 #define ID_VER "1.3.2.1harmattan2014." ID_PATCH
 #define ID_CODE "paradise"
 #define ID_DEV "karin"

@@ -263,6 +263,7 @@ QString idNetworkConnector::Request_sync(const QString &url, const QByteArray &d
 	if(!reply->isFinished())
 	{
 		reply->abort();
+        reply->deleteLater();
 		return r;
 	}
 
@@ -348,6 +349,7 @@ __Redirection:
 	if(!reply->isFinished())
 	{
 		reply->abort();
+        reply->deleteLater();
 		return ret;
 	}
 
@@ -484,6 +486,7 @@ __Redirection:
 	if(!reply->isFinished())
 	{
 		reply->abort();
+        reply->deleteLater();
 		return ret;
 	}
 

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 15 Aug 2019 09:06:05 +0800
+Source: weibomm
+Binary: weibomm
+Architecture: armel
+Version: 1.3.2.1harmattan2014.2
+Distribution: unstable
+Urgency: low
+Maintainer: karin <beyondk2000@gmail.com>
+Changed-By: karin <beyondk2000@gmail.com>
+Description: 
+ weibomm    - Weibo++
+Changes: 
+ weibomm (1.3.2.1harmattan2014.2) unstable; urgency=low
+ .
+   * Some fixes.
+Checksums-Sha1: 
+ 4a96fe5568feb2a66b62aad4d2fd14d765b45ceb 4489916 weibomm_1.3.2.1harmattan2014.2_armel.deb
+Checksums-Sha256: 
+ c436a53c5dcbe06b218a3b9a935e759053ae6284b515b9dcd1847c5463b3f0e9 4489916 weibomm_1.3.2.1harmattan2014.2_armel.deb
+Files: 
+ 6452e4e516e64c2a0d52382256039e78 4489916 user/other optional weibomm_1.3.2.1harmattan2014.2_armel.deb
+Maemo-Display-Name: Weibo++
+Maemo-Display-Name-Zh_cn: 微博++

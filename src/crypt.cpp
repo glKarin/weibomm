@@ -108,10 +108,10 @@ namespace id
 
 		EVP_PKEY_free(pkey);
 		return ret > 0 ? 0 : -1;
-	}
 #else
-	return 0;
+    return 0;
 #endif
+    }
 }
 
 
